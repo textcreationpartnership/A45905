@@ -1,0 +1,1339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Enquiry after religion, or, A view of the idolatry, superstition, bigottry, and hipocrisie of all churches and sects throughout the world also some thoughts of a late ingenious gentleman of the Royal Society concerning religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45905</idno>
+            <idno type="STC">Wing I211</idno>
+            <idno type="STC">ESTC R5567</idno>
+            <idno type="EEBO-CITATION">13208679</idno>
+            <idno type="OCLC">ocm 13208679</idno>
+            <idno type="VID">98503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 422:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Enquiry after religion, or, A view of the idolatry, superstition, bigottry, and hipocrisie of all churches and sects throughout the world also some thoughts of a late ingenious gentleman of the Royal Society concerning religion.</title>
+               </titleStmt>
+               <extent>[7], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98503:1"/>
+            <pb facs="tcp:98503:1"/>
+            <p>AN ENQUIRY AFTER RELIGION: OR, A View of the <hi>Idolatry, Superſtition, Bigottry</hi> and <hi>Hipocriſie</hi> of all Churches and Sects throughout the World.</p>
+            <p>Alſo ſome Thoughts of a late Ingenious Gentleman of the Royal Society concerning <hi>Religion.</hi>
+            </p>
+            <q>
+               <l>Religion ſtands on tip-toe in our Land,</l>
+               <l>Ready to paſs to the <hi>American</hi> ſtrand.</l>
+               <bibl>
+                  <hi>Herbert.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Dic quibus in Terris—&amp; eris mihi magnus Apollo.</hi>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <date>
+                              <hi>April</hi> 23. 1691.</date>
+                           <signed>R. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin</hi> at the <hi>Oxford-Arms</hi> in <hi>Warwick-lane</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="thoughts">
+            <pb facs="tcp:98503:2"/>
+            <pb facs="tcp:98503:2"/>
+            <head>
+               <hi>SOME Thoughts concerning</hi> RELIGION.</head>
+            <p>THere is nothing in which Mankind have been, in any compari<g ref="char:EOLhyphen"/>ſon, ſo out of their Wits, as in what they have abuſively call'd by this Sacred Name, <hi>Religion!</hi> In all Countreys it has been dy'd with Humane Blood, and ſwoln with Spoil and Ra<g ref="char:EOLhyphen"/>pine; written on the Heads of Tyrannies and <g ref="char:V">Ʋ</g>ſurpations, and pleaded as the Cauſe, the Cauſe of proſperous Villanies: 'Tis divided into Attoms of Sects, and diſputed into Air of Opinions; entituled to all the Vanities of ſick Imagination, and claim'd by all the folly of zealous Ignorance.</p>
+            <p>If we attend to the Zeal and the Confidence, the loud Talk and bold Claims of each of the Pretenders, all are in the truth, and all miſta<g ref="char:EOLhyphen"/>ken: Every Sect is in the right, if it may be judg'd by the fondneſs of its own aſſurance; and every one is out by the ſentence of all the reſt: Here is Religion, ſayes the Church of <hi>England;</hi> nay, but 'tis here, ſayes the <hi>Diſſenter;</hi> and the <hi>Papiſt</hi> gives the Lye to them both; and then they ſcuffle and contend 'till they have talked themſelves out of Senſe, out of Charity, and out of Breath: And when they would ſay on, but know not what, when their Paſſions are rais'd, but their Reaſons loſt; they fall to pelt each other with hard Names; they ſquabble and ſtrive, and damn one another by turns; they gather Parties to help up the cry, and fill all places with the noiſe of their quarrels, and triumph and crow after a Con<g ref="char:EOLhyphen"/>queſt in Imagination: And after all this buſtle, and all this adoe, they ſit down where they begun; nothing is gain'd on either ſide but an addition of Malice and bitter Zeal, more rancour and more damning ſentences, while they are, for the moſt part, as far from Truth as from Agreement.</p>
+            <p>This is the ſtate of the Contending World, nor can we expect it ſhould be otherwiſe, while Ignorance and Malice, Intereſt and Paſſion inſpire the quarrels. Or if the Controverſies ſhould be ended, the Vote would doubt<g ref="char:EOLhyphen"/>leſs be caſt on the ſide of Folly and Falſhood, for their adherents are more numerous, and moſt loud, while the friends of Truth and Reaſon are meek and modeſt, thinly ſcatter'd among the Herd, and ſtill liable to be over<g ref="char:EOLhyphen"/>born and out-noiſ'd by the Tumult. But though Religion is thus expoſed and ſcorned, though it is made ridiculous by ſome, and laugh'd at by
+<pb facs="tcp:98503:3"/>others, yet 'tis no Creature of Melancholly or Deſign, but a great Reality, and no cunningly deviſed Fable; no dream of Imagination, or intereſt of any luſt, but as ſimple as Innocence, and as clear as the Virgin Light. Religion is a plain thing, and eaſie to be underſtood; 'tis no deep ſubtilty, or high<g ref="char:EOLhyphen"/>ſtrain'd Notion; 'tis nogilded Fancy or elaborate exerciſe of the brain; 'tis not placed in the Clouds of Imagination, nor wrapt up in myſtical cloath<g ref="char:EOLhyphen"/>ing; but 'tis obvious and familiar, eaſie and intelligible; firſt preach'd by Fiſhermen and Mechanicks, without pomp of ſpeech, or height of ſpecula<g ref="char:EOLhyphen"/>tion; addreſs'd to Babes and Plebeian Heads, and intended to govern the Wills of the honeſt and ſincere, and not to exerciſe the Wits of the Notio<g ref="char:EOLhyphen"/>nal and Curious: So that we need not mount the Wings of the Wind to fetch Religion from the Stars, nor go down to the Deep to fetch it up from thence; for 'tis with us and before us, as open as the Day, and as familiar as the Light. The great Precepts of the Goſpel are cloathed in Sun-beams, and are as viſible to the common Eye as to the Eagle upon the higheſt perch. 'Tis no piece of Wit or Subtilty to be a Chriſtian, nor will it require much Study or learned retirement to underſtand the Religion we muſt practiſe. That which was to be known of God, was manifeſt to the very Heathen, <hi>Rom. 1.19. The Law is light,</hi> ſaith <hi>Solomon, Prov. 6.13.</hi> And 'tis not only a ſingle paſſing glance on the Eye, but 'tis put into the Heart, and the Promiſe is, That we ſhall all know him, from the greateſt to the leaſt. Our Duty is ſet up in open places, and ſhone upon by a clear Beam; 'twas written of old upon the plain Tables of <hi>Habbakkuk,</hi> Hab. <hi>2.2.</hi> ſo that the running Eye might ſee and read: And the Religion of the Holy Jeſus, like himſelf, came into the World with Rays about its head. In fine, Religion is clear and plain, and what is not ſo, may concern the <hi>Theater,</hi> or the Schools; may entertain Mens Wits, and ſerve the Intereſt of Diſputes; but 'tis nothing to Religion, 'tis nothing to the Intereſt of Mens Souls. Thoſe things that we count Myſteries are plainly enough diſcover'd as to their being ſuch as we believe them, though we cannot underſtand the manner how; and 'tis no part of Religion to enquire into that; but rather it enjoyns us meekly to acquieſce in the plain Declarations of Faith, with<g ref="char:EOLhyphen"/>out bold ſcrutiny into hidden things.</p>
+            <p>The ſumm is, Religion lies not in Syſtems of Opinion, but in Faith and Patience, Innocence and Integrity, in Love to God, and Charity to all the World. Mica <hi>6.8. He hath ſhewed thee, O Man, what is good, and what doth the Lord require of thee, but to do Juſtice, and to love Mercy, and walk humbly with thy God?</hi> James <hi>1.7. Pure Religion and undefiled before God and the Father is this, to viſit the Widows and Fatherleſs in their Affliction, and to keep himſelf unſpotted from the World.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="1" facs="tcp:98503:3"/>
+            <head>AN ENQUIRY, &amp;c.</head>
+            <lg>
+               <l>THe, beautious UNA,
+<note n="(a)" place="margin">True Re<g ref="char:EOLhyphen"/>ligion. Vid. <hi>Spencers Fairy Queen.</hi>
+                  </note> of a Race Divine,</l>
+               <l>The firſt, the beſt of all Heav'ns <hi>Royal Line:</hi>
+               </l>
+               <l>Thro' the <hi>wide World</hi> the Muſe reſolves to ſeek,</l>
+               <l>Farther than ever went the <hi>wandring
+<note n="(b)" place="margin">
+                        <g ref="char:V">Ʋ</g>lyſſes.</note> Greek.</hi>
+               </l>
+               <l>The <hi>Golden Fleece</hi> did <hi>Jaſons Search</hi> imploy,</l>
+               <l>
+                  <hi>Aeneas</hi> ſail'd to find another <hi>Troy:</hi>
+               </l>
+               <l>Not the wild <hi>Deſarts</hi> of th' <hi>Atlantick</hi> Main</l>
+               <l>Cou'd fright the brave <hi>Columbus</hi> back again.</l>
+               <l>Our <hi>aim</hi>'s more high, our <hi>Enterprize</hi> more bold,</l>
+               <l>Our <hi>ſearch</hi> for ſomething more <hi>refin'd than Gold.</hi>
+               </l>
+               <l>
+                  <hi>Veer the Main-ſheet of Fancy,</hi> till we're born</l>
+               <l>To th' utmoſt <hi>Chambers</hi> of the riſing <hi>morn:</hi>
+               </l>
+               <l>Where <hi>Infant day</hi> its bluſhing Forehead rears,</l>
+               <l>And <hi>either World</hi> the Suns kind bounty ſhares:</l>
+               <l>Encircled round with a ſmall Troop of Friends,</l>
+               <l>See where the <hi>Goddeſs</hi> from the <hi>Ark</hi> deſcends,</l>
+               <l>On <hi>Ararats</hi> proud Top they <hi>Altars</hi> raiſe,</l>
+               <l>And with her ſing their mighty <hi>Saviours</hi> praiſe.</l>
+               <l>The <hi>Good old Man,</hi> who knew no guilt or ſin,</l>
+               <l>All <hi>white</hi> without, and <hi>Innocent</hi> within;</l>
+               <l>
+                  <hi>Noah</hi> himſelf was then the <hi>Prieſt,</hi> as he</l>
+               <l>The <hi>King</hi> and <hi>Father</hi> of the <hi>Family.</hi>
+               </l>
+               <l>No long diſtracting <hi>Syſtems</hi> then were taught</l>
+               <l>For <hi>Fundamental Truths,</hi> no <hi>Cobwebs</hi> wrought</l>
+               <l>In thin <hi>Scholaſtick Brains,</hi> each morn they riſe,</l>
+               <l>And on the Mountain <hi>pray</hi> and <hi>Sacrifice:</hi>
+               </l>
+               <l>A <hi>Turf</hi> their <hi>Altar, Heav'n</hi> their <hi>Temple</hi> then,</l>
+               <l>Their Congregation all the Race of Men.</l>
+               <pb n="2" facs="tcp:98503:4"/>
+               <l>Here dwelt <hi>Religion</hi> long, with all her Train</l>
+               <l>Of Joys, nor wiſh'd to fly to <hi>Heav'n</hi> again.</l>
+               <l>To <hi>Noah</hi>'s <hi>Sons</hi> a few ſhort <hi>Rules</hi> did give,</l>
+               <l>While his <hi>Example</hi> taught 'em how to live.</l>
+               <l>
+                  <hi>Juſtice</hi> and <hi>Prudence,</hi> mutual <hi>Peace</hi> and <hi>Love,</hi>
+               </l>
+               <l>Juſt thoughts of man below, and thoſe <hi>above;</hi>
+               </l>
+               <l>
+                  <hi>Reverence</hi> of <hi>Parents,</hi> whatſoe're they be,</l>
+               <l>
+                  <hi>Purſuit</hi> of <hi>Virtue, flight</hi> of <hi>Cruelty:</hi>
+               </l>
+               <l>But <hi>Error</hi> ſoon did this bleſs'd <hi>Troop</hi> invade,</l>
+               <l>And in their <hi>little Church</hi> diſturbance made.</l>
+               <l>'Twas curſed <hi>Cham</hi> who firſt began to ſtray,</l>
+               <l>No longer he'd his <hi>Doating Sire</hi> obey,</l>
+               <l>But led <hi>one third</hi> of all the <hi>World</hi> away.</l>
+               <l>
+                  <hi>Error</hi> they for <hi>Religion</hi> with 'em take,</l>
+               <l>Their homely <hi>Turfs,</hi> and <hi>Sky-light Roofs</hi> forſake,</l>
+               <l>And glittering <hi>Robes,</hi> and gawdy <hi>Temples</hi> make;</l>
+               <l>By her direction <hi>Babels Turrets</hi> riſe,</l>
+               <l>And <hi>Story</hi> after <hi>Story</hi> pierce the Skies;</l>
+               <l>Till thro' calm <hi>Aether</hi> now the <hi>Lab'rers</hi> go,</l>
+               <l>And fearleſs ſee the <hi>Clouds and Storms below:</hi>
+               </l>
+               <l>Th' <hi>Almighty</hi> ſaw, and with an angry frown</l>
+               <l>He <hi>thunders</hi> all their <hi>Mole-hill Labours</hi> down,</l>
+               <l>Compells 'em ſoon to leave that hated place,</l>
+               <l>Scatt'ring <hi>Confuſion</hi> round the faithleſs Race;</l>
+               <l>Some dreggs remained,</l>
+               <l>Who in their curſed <hi>Fathers</hi> footſteps trod,</l>
+               <l>Their <hi>Faith</hi> they chang'd before and now their <hi>God,</hi>
+               </l>
+               <l>Their <hi>Grandſire
+<note n="*" place="margin">The Origi<g ref="char:EOLhyphen"/>nal of Idola<g ref="char:EOLhyphen"/>try.</note> Belus</hi> muſt be he or none,</l>
+               <l>He fills the <hi>Shrine,</hi> who lately fill'd the <hi>Throne.</hi>
+               </l>
+               <l>Still <hi>Errors</hi> here, altho' ſhe took her <hi>flight,</hi>
+               </l>
+               <l>With every <hi>wrangling tongue,</hi> and well ſhe might,</l>
+               <l>For <hi>Truth is one,</hi> but <hi>Error inſinite;</hi>
+               </l>
+               <l>Scatter'd thro' every Nation, Age and Place,</l>
+               <l>Or ſhe her ſelf, or her unnumber'd <hi>Race,</hi>
+               </l>
+               <l>Yet ſtill <hi>Religion's</hi> mask adorns their Face.</l>
+               <l>And while their foul deformities they hide,</l>
+               <l>They only' are <hi>true,</hi> and all are <hi>cheats</hi> beſide.</l>
+               <pb n="3" facs="tcp:98503:4"/>
+               <l>They in a thouſand various <hi>ſhapes</hi> appear,</l>
+               <l>A thouſand odd <hi>fantaſtick forms</hi> they wear.</l>
+               <l>Thoſe by their <hi>Reaſons</hi> glimm'ring <hi>Light</hi> proceed,</l>
+               <l>Theſe lean on lame <hi>Traditions</hi> broken Reed,</l>
+               <l>A third who only <hi>Senſes</hi> aid implore,</l>
+               <l>The <hi>Sun</hi> and all his glitt'ring <hi>Hoſt</hi> adore:</l>
+               <l>Others, whom conſcious <hi>Guilt</hi> and <hi>Fear</hi> purſue,</l>
+               <l>Worſhip the Devil, that he no <hi>harm may do,</hi>
+               </l>
+               <l>Their Idols all an ugly ghaſtly crew.</l>
+               <l>Tho' many <hi>monſtrous Beaſts</hi> hot <hi>Africk</hi> ſees,</l>
+               <l>
+                  <hi>Aſia</hi> can boaſt more <hi>monſtrous Detites.</hi>
+               </l>
+               <l>
+                  <note n="*" place="margin">Religions of <hi>Aſia.</hi>
+                  </note> Say ancient <hi>China</hi> what thy <hi>Temples</hi> hold</l>
+               <l>Thy <hi>Gods</hi> of <hi>Iron</hi> and thy <hi>Gods</hi> of <hi>Gold.</hi>
+               </l>
+               <l>
+                  <hi>Tremendous Forms</hi> whoſe looks chill <hi>Horror</hi> bear,</l>
+               <l>And like <hi>true Daemons,</hi> fright the <hi>burdened air.</hi>
+               </l>
+               <l>And well they may, whoſe hungry <hi>Scent</hi> and Eyes</l>
+               <l>
+                  <note n="†" place="margin">The <hi>Chineſe</hi> Prieſts offer the ſteam of the Meat to their Gods, and eat it themſelves.</note> Are only feaſted in a <hi>Sacrifice.</hi>
+               </l>
+               <l>Since fed with nought but <hi>ſmoak,</hi> well may they <hi>lowr,</hi>
+               </l>
+               <l>That all the <hi>meat</hi> their own fat <hi>Prieſts</hi> devour;</l>
+               <l>Nay moſt unmercifully uſe the
+<note n="‖" place="margin">They alſo whip their Idols when they ob<g ref="char:EOLhyphen"/>tain not what they deſire.</note> 
+                  <hi>Rod,</hi>
+               </l>
+               <l>And when they pleaſe lay on their <hi>naughty God.</hi>
+               </l>
+               <l>If well their <hi>Shelf</hi> of <hi>Porcelan,</hi> hee'll not guard,</l>
+               <l>Nor their <hi>Devotion</hi> with <hi>Rupies</hi>
+                  <note n="*" place="margin">A ſort of <hi>Coin</hi> in ſue in the Eaſtern Countreys.</note> reward.</l>
+               <l>No wonder true <hi>Religion</hi> won't abide</l>
+               <l>In Realms ſo full of <hi>Ignorance</hi> and <hi>Pride;</hi>
+               </l>
+               <l>Yet many you'l like the <hi>Chineſes</hi> find,</l>
+               <l>Who only <hi>ſee,</hi> and think all others <hi>blind.</hi>
+               </l>
+               <l>Of great <hi>Chufu</hi>
+                  <note n="†" place="margin">Their great Philoſopher called by the Jeſuits <hi>Confu<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s.</hi>
+                  </note> their mouth are ever full,</l>
+               <l>Tho' <hi>good</hi> and <hi>prudent</hi> he, they <hi>lewd</hi> and <hi>dull.</hi>
+               </l>
+               <l>Shou'd we go on i'th' <hi>track</hi> we late began,</l>
+               <l>And ſearch the Temples of remote <hi>Japan,</hi>
+               </l>
+               <l>What Idols ancient <hi>India</hi> ever knew,</l>
+               <l>What <hi>Malabar,</hi> or <hi>Ceylon,</hi> or <hi>Pegu;</hi>
+               </l>
+               <l>What numerous droves of Gods and <hi>Monkeys</hi> rove</l>
+               <l>Thro' each fair <hi>Plain,</hi> thick <hi>Wood,</hi> or Sacred <hi>Grove;</hi>
+               </l>
+               <l>Of ever getting home we muſt doſpair,</l>
+               <l>The Sun wou'd firſt <hi>drive round</hi> and find us there:</l>
+               <l>Yet <hi>Ganges</hi> muſt we not forget thy <hi>fall</hi>
+               </l>
+               <l>Rever'd by th' rich <hi>Natives of Bengale;</hi>
+               </l>
+               <pb n="4" facs="tcp:98503:5"/>
+               <l>Not <hi>Nile</hi> was worſhip't by fat <hi>Egypt</hi> more,</l>
+               <l>Nor <hi>Crete</hi> of old could her own <hi>Jove</hi> adore:</l>
+               <l>Upon the <hi>reedy Banks</hi> in vain they pray,</l>
+               <l>Not all thy <hi>waves</hi> can waſh their <hi>guilt away:</hi>
+               </l>
+               <l>How many glit'ring <hi>Pagods</hi> may be told</l>
+               <l>By thy wide ſtreams? how dawb'd with <hi>Gems</hi> and <hi>Gold!</hi>
+               </l>
+               <l>With <hi>humane</hi> or with <hi>brutal victims</hi> fed,</l>
+               <l>While thou for fear ſhrink'ſt back thy <hi>conſcious Head:</hi>
+               </l>
+               <l>While the diſtracted <hi>Faquirs</hi>
+                  <note place="margin">The <hi>Indian</hi> Prieſts.</note> ſtill invent</l>
+               <l>Themſelves by ſome new methods to <hi>torment</hi>
+               </l>
+               <l>What <hi>Pains</hi> the wretches for <hi>Damnation</hi> take!</l>
+               <l>Not half the adoe our <hi>Weſtern
+<note n="†" place="margin">The <hi>Romiſh</hi> Prieſts.</note> Faquirs</hi> make;</l>
+               <l>Tho' they ſo much to <hi>mortifie</hi> pretend,</l>
+               <l>In what <hi>diſtorted ſhapes</hi> themſelves they bend;</l>
+               <l>What <hi>cords,</hi> what <hi>wounds,</hi> what <hi>heat,</hi> what <hi>cold</hi> they bear,</l>
+               <l>Expos'd to all th' <hi>Inclemencies o'th' Air!</hi>
+               </l>
+               <l>How many years in the ſame <hi>poſture</hi> ſtand
+<note n="†" place="margin">See <hi>Herberts Travels.</hi>
+                  </note>,</l>
+               <l>Nor move tho' the <hi>Mogul</hi> himſelf <hi>commands!</hi>
+               </l>
+               <l>This to his <hi>Idol</hi> vows <hi>ſilence profound,</hi>
+               </l>
+               <l>Half plung'd in Lakes, or bury'd in the <hi>ground;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That <hi>pearches</hi> like a <hi>Bird</hi> on ſome <hi>tall Tree,</hi>
+               </l>
+               <l>From mortal <hi>Converſation</hi> to be free,</l>
+               <l>And wait the <hi>whiſpers</hi> of his <hi>Deitie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus thoſe who once poſſeſs'd the ſelf ſame place,</l>
+               <l>The <hi>Predeceſſors</hi> of their fooliſh Race;</l>
+               <l>The fond <hi>Gyinnoſophiſts</hi>
+                  <note n="*" place="margin">Vid. <hi>Quint. Curt.</hi>
+                  </note> wou'd gazing ſtand,</l>
+               <l>Their <hi>Eyes</hi> the <hi>San</hi> did burn, their <hi>feet</hi> the ſand:</l>
+               <l>Thought all their <hi>Sence</hi> muſt loſe who <hi>Reaſon</hi> find,</l>
+               <l>And none cou'd <hi>walk</hi> or <hi>ſee</hi> till <hi>lame</hi> and <hi>blind.</hi>
+               </l>
+               <l>With theſe the <hi>Squeamiſh Bramins</hi> let us rank,</l>
+               <l>Who like their <hi>Cattle</hi> graze on <hi>Ganges</hi> bank:</l>
+               <l>They from all <hi>Food</hi> but <hi>milk</hi> and <hi>herbs</hi> abſtain,</l>
+               <l>And think that half the <hi>World</hi> was made in vain.</l>
+               <l>Their <hi>holy Cows</hi> propitious aid implore,</l>
+               <l>So her kind Udders full they ask no more;</l>
+               <l>What 'ere their <hi>Conſcience</hi> is, they are not <hi>nice,</hi>
+               </l>
+               <l>A bleſs'd <hi>Religion</hi> 'tis for <hi>Fleas and Lice</hi>
+                  <note n="†" place="margin">They make it a piece of their Religion to Kill nothing.</note>.</l>
+               <pb n="5" facs="tcp:98503:5"/>
+               <l>Not a <hi>lame Dog</hi> whoſe <hi>Cryes</hi> their <hi>Succours</hi> call,</l>
+               <l>But they'll <hi>relieve</hi> and ſend to th' <hi>Hoſpital.</hi>
+               </l>
+               <l>
+                  <hi>Shame</hi> to our <hi>World,</hi> we <hi>Men</hi> like <hi>Beaſts</hi> do ſerve,</l>
+               <l>While their wide Care will <hi>Beaſts</hi> like <hi>Men</hi> preſerve,</l>
+               <l>Unleſs when <hi>Error</hi> prompts to <hi>Cruelty</hi>
+               </l>
+               <l>And makes 'em mad and <hi>barbarous
+<note n="(c)" place="margin">The <hi>Weſt<g ref="char:EOLhyphen"/>ern</hi> Bigots, Pa<g ref="char:EOLhyphen"/>piſts, <hi>&amp;c.</hi>
+                     </note> as we:</hi>
+               </l>
+               <l>A falſe <hi>Religion</hi> at no miſchief ſtands,</l>
+               <l>But dyes in <hi>Blood</hi> its Vot'ries guilty <hi>hands,</hi>
+               </l>
+               <l>No difference makes, promiſcuous <hi>Victimgs</hi> brings,</l>
+               <l>Their own, their <hi>Friends,</hi> their <hi>Fathers</hi> or their <hi>Kings.</hi>
+               </l>
+               <l>Let this <hi>Narſing as</hi> horrid <hi>Rites</hi> declare</l>
+               <l>When the poor Wretch high mounted in the <hi>Air,</hi>
+               </l>
+               <l>Rais'd to the frightful <hi>Idols</hi> frowning brow,</l>
+               <l>On dreadful <hi>Tenters</hi> hung performs his <hi>Vow.</hi>
+               </l>
+               <l>Where the proud <hi>Pagods Chariot</hi> rolls along,</l>
+               <l>Guarded by an <hi>innumerable</hi> throng,</l>
+               <l>
+                  <hi>Happy</hi> they think the <hi>Wretch,</hi> and <hi>Martyr</hi> call,</l>
+               <l>Who to their <hi>Dev'liſh gods</hi> a Victim fall;</l>
+               <l>Who <hi>coming Death</hi> with <hi>Joy</hi> and <hi>Rapture</hi> feels,</l>
+               <l>His <hi>Soul</hi> oruſht out beneath the <hi>pond'rous Wheels.</hi>
+               </l>
+               <l>Let's croſs the <hi>Gulph,</hi> my <hi>Muſe,</hi> and haſten o're</l>
+               <l>To ſearch at <hi>ſeven-mouth'd Nile</hi>'s uncertain ſhore;</l>
+               <l>There ſure in vain we ſhan't <hi>Religion</hi> ſeek,</l>
+               <l>As <hi>common</hi> as the <hi>Onion</hi> or the <hi>Leek.</hi>
+               </l>
+               <l>A goodly <hi>ſtock</hi> of <hi>gods,</hi> a numerous breed!</l>
+               <l>There lies a <hi>Deity</hi> in every <hi>Seed.</hi>
+               </l>
+               <l>Kinder <hi>Divinities</hi> the <hi>World</hi> ne're ſaw,</l>
+               <l>You how you pleaſe may <hi>eat 'em, boyl'd</hi> or <hi>raw.</hi>
+               </l>
+               <l>Some <hi>Gods</hi> they <hi>eat</hi> on the ſoft <hi>Banks</hi> of <hi>Nile,</hi>
+               </l>
+               <l>Others <hi>eat them</hi> — the dreadful Crocodile</l>
+               <l>Whom <hi>Aegypt</hi> ſerves, as th' <hi>Indians Fiends</hi> revere,</l>
+               <l>Or <hi>Europe Tyrants,</hi> not for <hi>love</hi> but <hi>fear.</hi>
+               </l>
+               <l>To ſome to <hi>ſtill their Children</hi> they're devout;</l>
+               <l>Divine <hi>Anubis</hi> with his <hi>ugly ſnout,</hi>
+               </l>
+               <l>
+                  <hi>Hounds head,</hi> and <hi>Ears</hi> which to the Earth incline</l>
+               <l>With humane <hi>Trunk;</hi> and <hi>Apis more divine,</hi>
+               </l>
+               <l>Nay, ſome wiſe <hi>Towns</hi> in zealous <hi>Battle</hi> joyn.</l>
+               <pb n="6" facs="tcp:98503:6"/>
+               <l>Whether the <hi>Crocodile</hi> or <hi>Monkey</hi>
+                  <note n="(a)" place="margin">Vid. <hi>Ju<g ref="char:EOLhyphen"/>venal.</hi>
+                  </note> be</l>
+               <l>All things well weigh'd the <hi>greater Deity:</hi>
+               </l>
+               <l>Their hideous <hi>Typhon</hi> we'll not here deſcribe,</l>
+               <l>Nor all their huge unnam'd, unnumber'd <hi>Tribe</hi>
+               </l>
+               <l>Of <hi>Bug-bear Gods,</hi> ſtill new and new each <hi>morn</hi>
+               </l>
+               <l>As faſt as <hi>Niles</hi> imperfect <hi>Mice</hi> are born.</l>
+               <l>But hence we'll to <hi>Arabia's Sands</hi> repair,</l>
+               <l>And ſearch if true <hi>Religion</hi>'s wandring there;</l>
+               <l>Who of her only this pretend to know</l>
+               <l>— She that way paſs'd two thouſand years agoe.</l>
+               <l>More of the matter how d'ye expect they ſhou'd</l>
+               <l>Who ever ſince no <hi>Trade</hi> but <hi>Theft</hi> purſu'd,</l>
+               <l>And rob to get an <hi>honeſt Livelihood.</hi>
+               </l>
+               <l>To fruitful <hi>Paleſtine</hi> let's next proceed,</l>
+               <l>Where by her <hi>Track</hi> we find ſhe has <hi>liv'd</hi> indeed,</l>
+               <l>Whoſe very <hi>Stones</hi> and <hi>Hills</hi> her Footſteps bear,</l>
+               <l>Each <hi>Field,</hi> each <hi>River</hi> owns ſhe <hi>once</hi> was there,</l>
+               <l>But now of an <hi>eternal Loſs</hi> complain;</l>
+               <l>We <hi>Hermon</hi>'s fragrant top may ſearch in vain,</l>
+               <l>Or <hi>Gilead</hi>'s neighb'ring <hi>Mount</hi> or lovely <hi>Plain;</hi>
+               </l>
+               <l>Both that and her once boaſted <hi>Balm</hi> are <hi>gone,</hi>
+               </l>
+               <l>Nor dwells ſhe in forſaken <hi>Lebanon;</hi>
+               </l>
+               <l>Nor ev'n on ancient <hi>Sions</hi> ſacred brow,</l>
+               <l>Once <hi>ſacred,</hi> but <hi>profane</hi> and <hi>common</hi> now:</l>
+               <l>Long ſcorn'd and injur'd by that <hi>ſtiff-neckt race</hi>
+               </l>
+               <l>The <hi>Dove</hi> cou'd bear no more, but left the <hi>Place,</hi>
+               </l>
+               <l>Nor more will fix on ſome <hi>peculiar ground,</hi>
+               </l>
+               <l>But far away <hi>wings</hi> the <hi>wide World</hi> around.</l>
+               <l>She ſcatters <hi>Bleſſings</hi> with her where ſhe flyes,</l>
+               <l>An <hi>Olive branch</hi> ſhe bears, which <hi>Peace</hi> implyes,</l>
+               <l>The <hi>flaming Sword's</hi> remov'd from <hi>Paradice.</hi>
+               </l>
+               <l>
+                  <hi>Clean</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nclean</hi>'s no more, the <hi>Ark</hi> is free,</l>
+               <l>Whoever comes may now <hi>admitted</hi> be.</l>
+               <l>
+                  <hi>Religion</hi> now no longer we'll deſpair</l>
+               <l>To find thee out, ſince thou art <hi>every where!</hi>
+               </l>
+               <l>Yes — we too ſoon may find her — ſee — ſhe's there:</l>
+               <l>'Tis <hi>ſhe,</hi> her <hi>face</hi> all cover'd with a flood</l>
+               <l>Of briny <hi>Tears,</hi> her <hi>Garments roll'd in Blood:</hi>
+               </l>
+               <pb n="7" facs="tcp:98503:6"/>
+               <l>Circled with <hi>Flames</hi> and <hi>Lyons,</hi> bound in <hi>Chains,</hi>
+               </l>
+               <l>I'th' midſt of <hi>Racks, Tormentors, Deaths</hi> and <hi>Pains,</hi>
+               </l>
+               <l>Yet ſpite of all her <hi>Conſtancy</hi> retains.</l>
+               <l>Sure <hi>Sorrow</hi> never lookt with better <hi>grace</hi> —</l>
+               <l>Coeleſtial <hi>Odors</hi> fill the happy place;</l>
+               <l>An <hi>Angel</hi> comes, and wipes her <hi>heav'nly Face,</hi>
+               </l>
+               <l>Then lifts the <hi>Banner</hi> of the <hi>Croſs</hi> on high,</l>
+               <l>See the bright <hi>Signal</hi> glitt'ring in the <hi>Skye:</hi>
+               </l>
+               <l>See <hi>Heav'n</hi> above which <hi>wards</hi> each threatning <hi>blow,</hi>
+               </l>
+               <l>
+                  <hi>Heav'n</hi> there, and generous <hi>Conſtantine</hi> below;</l>
+               <l>With whom the <hi>Pagans</hi> to their coſt did trye</l>
+               <l>The <hi>Chriſtians</hi> now cou'd <hi>fight</hi> as well as <hi>dye;</hi>
+                  <note n="(a)" place="margin">
+                     <hi>Cedebant non cedebantur</hi> as the Writer of thoſe times relate it.</note>
+               </l>
+               <l>With her the <hi>Conqu'rer</hi> did the <hi>World</hi> divide,</l>
+               <l>And plac'd her cloſe by his <hi>triumphant ſide;</hi>
+               </l>
+               <l>In the <hi>Imperial Purple</hi> made her ſhine,</l>
+               <l>And <hi>kiſs'd</hi> her <hi>Wounds,</hi> and bath'd in <hi>Tears</hi> and <hi>Wine.</hi>
+               </l>
+               <l>True ſhe was <hi>humble</hi> ſtill, thô this ſhe allow'd</l>
+               <l>To keep her from <hi>Contempt</hi> among the <hi>Croud;</hi>
+               </l>
+               <l>But ſoon her <hi>fooliſh Sons</hi> grew <hi>vain</hi> and <hi>proud,</hi>
+               </l>
+               <l>
+                  <hi>Contend</hi> and <hi>ſtrive</hi> all round the conquer'd <hi>Globe,</hi>
+               </l>
+               <l>And rend and tear their Mothers <hi>ſeamleſs Robe:</hi>
+               </l>
+               <l>Was it for this the <hi>Idol Temples</hi> fell,</l>
+               <l>And every <hi>Daemon</hi> left his <hi>Oracle?</hi>
+               </l>
+               <l>They <hi>taught</hi> and <hi>rul'd</hi> the <hi>World</hi> almoſt as well.</l>
+               <l>Nay, <hi>wiſer</hi> they, and much, much more i'th' right</l>
+               <l>Since whatſoe're their <hi>dreaming Poets</hi> write,</l>
+               <l>They never did againſt <hi>each other fight.</hi>
+               </l>
+               <l>Firſt <hi>ſubtile Heads</hi> new <hi>Faiths,</hi> new <hi>Creeds</hi> deviſe,</l>
+               <l>And thred-bare old <hi>ſimplicity</hi> deſpiſe.</l>
+               <l>The <hi>Apoſtles</hi> had not <hi>Metaphyſicks</hi> read,</l>
+               <l>Their <hi>Sence</hi> was dull, their <hi>Notions</hi> cold and dead</l>
+               <l>And too <hi>confus'd — Religion's</hi> courſe and plain,</l>
+               <l>We'll quickly ſhow the World a purer Vein,</l>
+               <l>And teach her how to reach a <hi>loftier ſtrain.</hi>
+               </l>
+               <l>Proud <hi>Arrius</hi> firſt begun the fatal <hi>Game,</hi>
+               </l>
+               <l>And big with <hi>Plagues</hi> from <hi>Alexandria</hi> came;</l>
+               <l>Confuſion, Miſchief and Diſtraction hurl'd</l>
+               <l>Before him, ſcatt'ring <hi>Poyſon</hi> round the <hi>World:</hi>
+               </l>
+               <pb n="8" facs="tcp:98503:7"/>
+               <l>Againſt him ſoon did the <hi>warm Saint</hi>
+                  <note n="(b)" place="margin">St. <hi>Athana.</hi>
+                  </note> ariſe</l>
+               <l>With <hi>zealous Thunder</hi> in his <hi>Voice</hi> and <hi>Eyes;</hi>
+               </l>
+               <l>The <hi>Goſpel</hi> in the <hi>Quarrel</hi> ne're were miſt,</l>
+               <l>But <hi>Plato</hi> grew a <hi>fifth Evangeliſt:</hi>
+               </l>
+               <l>
+                  <hi>Parties</hi> were <hi>made, Councils</hi> with <hi>Councils</hi> vy'd,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nerring Number</hi> muſt the <hi>Cauſe</hi> decide.</l>
+               <l>He that has <hi>feweſt Hands</hi> in <hi>Hell</hi> he burns,</l>
+               <l>— <hi>And thus they Vote Damnation round by turns.</hi>
+               </l>
+               <l>So <hi>loud,</hi> their <hi>Mothers Voice</hi> they neither mind,</l>
+               <l>Thô ſhe ſo ſad, ſo tender and ſo kind:</l>
+               <l>Her ſelf ſhe throws between, to part the Fray,</l>
+               <l>And beggs 'em by her <hi>Tears</hi> and <hi>Wounds</hi> to ſtay:</l>
+               <l>
+                  <hi>Deaf</hi> as the <hi>Winds</hi> when ſtruggling Tempeſts rage,</l>
+               <l>They'd thro' her <hi>ſides</hi> each other fain engage,</l>
+               <l>She's <hi>trampled down</hi> by their contending might,</l>
+               <l>Whilſt over her the <hi>unnatural Wretches</hi> fight:</l>
+               <l>And when they found that <hi>damning</hi> wou'd not do,</l>
+               <l>At laſt they went to work with <hi>killing</hi> too:</l>
+               <l>
+                  <hi>Empires</hi> and <hi>Kings</hi> engage in the diſpute,</l>
+               <l>Each other baniſh, vex and perſecute;</l>
+               <l>
+                  <hi>Religion</hi> wounded from the <hi>Duſt</hi> aſcends,</l>
+               <l>No more to <hi>reconcile</hi> 'em now pretends,</l>
+               <l>But how it pleas'd, beggs <hi>Heav'n</hi> to make 'em <hi>Friends.</hi>
+               </l>
+               <l>Who from the <hi>Eaſt</hi> th' <hi>Arrabian
+<note n="†" place="margin">Mabomet.</note> Monſter</hi> ſends</l>
+               <l>An <hi>Abject Slave,</hi> who <hi>Deſolation</hi> brings</l>
+               <l>In his <hi>broad Sword,</hi> where e're his <hi>Arm</hi> he flings,</l>
+               <l>Where e're his <hi>Feet</hi> he ſets he <hi>tramples Kings.</hi>
+               </l>
+               <l>Whatever's <hi>ſacred</hi> there before him flies,</l>
+               <l>Or cruſht in <hi>miſerable ruines</hi> lies.</l>
+               <l>No <hi>Faith,</hi> no <hi>Word</hi> he keeps — ah Wretch accurſt,</l>
+               <l>On <hi>Rapine</hi> fed, in <hi>Blood</hi> and <hi>Murthers</hi> nurſt.</l>
+               <l>All the fair <hi>Fields</hi> of <hi>Greece</hi> a <hi>Deſart</hi> made,</l>
+               <l>And every ſtately <hi>Town</hi> in aſhes laid,</l>
+               <l>The ancient <hi>Nurſeries</hi> of <hi>wit</hi> and <hi>ſenſe,</hi>
+               </l>
+               <l>The <hi>Seats</hi> of <hi>Learning</hi> and of <hi>Eloquence.</hi>
+               </l>
+               <l>All his <hi>Religion</hi> was, to do him right</l>
+               <l>As <hi>others</hi> ſince, only to <hi>whore</hi> and <hi>fight.</hi>
+               </l>
+               <pb n="9" facs="tcp:98503:7"/>
+               <l>Unbounded <hi>Liberty</hi> to <hi>Luſt</hi> he gave,</l>
+               <l>Which made the <hi>hot-vein'd Saracen</hi> his <hi>Slave.</hi>
+               </l>
+               <l>A nearer way than <hi>Induſtry</hi> he'd ſhown</l>
+               <l>To <hi>wealth, kill</hi> the <hi>Poſſeſſor all's your own.</hi>
+               </l>
+               <l>Seek not <hi>Religion</hi> there, alas 'tis fled,</l>
+               <l>Or elſe with all good <hi>Arts</hi> beſides it, <hi>dead;</hi>
+               </l>
+               <l>Whilſt he its raviſh'd vacant place ſupplyes</l>
+               <l>With <hi>Rhapſodies</hi> of <hi>Nonſence, Folly, Lies.</hi>
+               </l>
+               <l>Conceive a <hi>pil'd Confuſion</hi> he that can,</l>
+               <l>A <hi>heap of Nothings,</hi> that's the <hi>Alchoran,</hi>
+               </l>
+               <l>A <hi>Syſtem</hi> of flat <hi>Incongruities,</hi>
+               </l>
+               <l>And incoherent dull <hi>Abſurdities,</hi>
+               </l>
+               <l>Supplying want of <hi>Reaſon, Wit</hi> and <hi>Sence,</hi>
+               </l>
+               <l>With empty pompous bloated <hi>Eloquence;</hi>
+               </l>
+               <l>
+                  <hi>Cunning</hi> not <hi>wiſe</hi> the <hi>wretch</hi> himſelf has ſhown,</l>
+               <l>Of <hi>all Religions,</hi> yet indeed of <hi>none;</hi>
+               </l>
+               <l>Of every <hi>Sect</hi> and <hi>Hereſie</hi> he takes,</l>
+               <l>Not <hi>compoſition</hi> but <hi>confuſion</hi> makes,</l>
+               <l>
+                  <hi>Jew, Chriſtian, Heathen</hi> jumbles in one <hi>Law,</hi>
+               </l>
+               <l>The greateſt <hi>Monſter Nature</hi> ever ſaw.</l>
+               <l>He plac'd no <hi>Padlock</hi> on their <hi>Lecherie,</hi>
+               </l>
+               <l>All had as many <hi>Concubines</hi> as he:</l>
+               <l>The hop'd ſucceſs th' Impoſtor quickly found,</l>
+               <l>His <hi>Doctrine</hi> all Luxurious <hi>Aſia</hi> own'd.</l>
+               <l>
+                  <hi>Perſia</hi> reveres her <hi>Sacred Fire</hi>
+                  <note n="†" place="margin">The <hi>Perſians</hi> anciently (and ſome few at preſent) wor<g ref="char:EOLhyphen"/>ſhip the Fire. <hi>See Sir</hi> John Chardin<hi>'s Voy<g ref="char:EOLhyphen"/>ages.</hi>
+                  </note> no more,</l>
+               <l>But this new <hi>Ignis Fatuus</hi> now adore,</l>
+               <l>Yet quarrel for his lawfull <hi>Succeſlor.</hi>
+               </l>
+               <l>
+                  <hi>Homar</hi> they bait and <hi>damn</hi> to endleſs <hi>Fire,</hi>
+               </l>
+               <l>'Tis <hi>bleſſed Italy</hi> they alone admire.</l>
+               <l>Thro' the wide <hi>Eaſt</hi> this <hi>Poiſon</hi> creeps along,</l>
+               <l>And to th' <hi>Impoſtors Tomb</hi> whole Nations throng:</l>
+               <l>
+                  <hi>India, Arabia, Affrick</hi>'s Deſarts wild,</l>
+               <l>Nay, <hi>Europe</hi>'s fertile Fields more <hi>civiliz'd</hi> and mild:</l>
+               <l>
+                  <hi>Nature</hi> it ſelf had fix'd 'em bounds in vain,</l>
+               <l>Nor cou'd the narrow <hi>Helleſpont</hi> contain</l>
+               <l>Their numerous <hi>ſwarms</hi> — the fatal <hi>ſtream</hi> is croſt,</l>
+               <l>And, <hi>Conſtantine,</hi> thy glorious <hi>Tow'rs</hi> are loſt.</l>
+               <pb n="10" facs="tcp:98503:8"/>
+               <l>The <hi>Creſcent</hi> riſes, and the <hi>Croſs</hi> goes down;</l>
+               <l>And <hi>Europe</hi> now they reckon <hi>all</hi> their <hi>own.</hi>
+               </l>
+               <l>Not to the <hi>Mufti</hi>
+                  <note n="*" place="margin">The Pope.</note> on th' <hi>Italian</hi> ſide,</l>
+               <l>Who'd not <hi>loſe all,</hi> but willingly <hi>divide:</hi>
+               </l>
+               <l>They need not for their <hi>ſhares</hi> keep much ado,</l>
+               <l>'Tis hard, or <hi>all the World</hi>'s enough for <hi>two.</hi>
+               </l>
+               <l>'Tis true, the <hi>Roman Caliph</hi> cannot bear</l>
+               <l>
+                  <hi>Two holy Cheats</hi> at once to fill <hi>one Chair,</hi>
+               </l>
+               <l>Preſerves his high unrivall'd Dignity;</l>
+               <l>Nor is there other <hi>Antichriſt</hi> but he.</l>
+               <l>Out-does dull <hi>Mahomet</hi> and all his Crew,</l>
+               <l>Contrives a <hi>Worſhip</hi> more ſublime and new,</l>
+               <l>Which <hi>Chriſt</hi> and his <hi>Apoſtles</hi> never knew:</l>
+               <l>In the old <hi>Pagan</hi> grafted, more refin'd,</l>
+               <l>And ſome new <hi>profitable</hi> Doctrines joyn'd,</l>
+               <l>Convenient Articles, which Service do,</l>
+               <l>Not only in <hi>this world,</hi> but <hi>t'other</hi> too;</l>
+               <l>Tho <hi>Pagan Temples</hi> now are <hi>bleſt</hi> and <hi>croſs'd,</hi>
+               </l>
+               <l>Not one good ſerviceable <hi>hint</hi> was loſt,</l>
+               <l>Which from the <hi>Roman Flamins</hi> might be learn'd:</l>
+               <l>Thus far <hi>Panthaeon</hi> wiſely they diſcern'd.</l>
+               <l>For every <hi>Idol</hi> did a <hi>Shrine</hi> provide,</l>
+               <l>In whate're <hi>Place</hi> or <hi>Country dignify'd:</hi>
+               </l>
+               <l>Nor made <hi>Enquiry</hi> what they were <hi>before,</hi>
+               </l>
+               <l>
+                  <hi>Mercury,</hi> or <hi>Venus, Thief,</hi> or <hi>Bawd,</hi> or <hi>VVhore;</hi>
+               </l>
+               <l>
+                  <hi>Civil</hi> to <hi>Strangers</hi> whenceſo'ere they came,</l>
+               <l>And who'd a piece of ſuch <hi>good Nature</hi> blame?</l>
+               <l>No <hi>Traveller</hi> entred on this happy <hi>Coaſt,</hi>
+               </l>
+               <l>But here might <hi>find</hi> their <hi>Gods</hi> where ever <hi>loſt.</hi>
+               </l>
+               <l>And if with a <hi>good Heart</hi> and <hi>Purſe</hi> they come.</l>
+               <l>Might <hi>pray</hi> and <hi>pay</hi> as well as if <hi>at home.</hi>
+               </l>
+               <l>Thus the <hi>old Romans</hi> did, and thus <hi>new Rome:</hi>
+               </l>
+               <l>It lik'd the <hi>Humour</hi> well, and was content</l>
+               <l>To <hi>copy</hi> from ſo fair a <hi>Preſident.</hi>
+               </l>
+               <l>An <hi>All Saints Church</hi> of old <hi>Panthaeon</hi> made;</l>
+               <l>Thus the <hi>Sign</hi>'s chang'd, tho' th' <hi>Houſe</hi> ſtill keeps the <hi>Trade.</hi>
+               </l>
+               <l>
+                  <hi>Mahomet</hi> was a <hi>ſtupid Sot,</hi> nor knew</l>
+               <l>The Feats an <hi>Image</hi> might be <hi>taught</hi> to do.</l>
+               <pb n="11" facs="tcp:98503:8"/>
+               <l>He thought it an <hi>unprofitable</hi> Sin,</l>
+               <l>And <hi>threw 'em out, Rome</hi> wiſelier <hi>kept 'em in:</hi>
+               </l>
+               <l>Cuts off the <hi>Horns</hi> which did of old diſgrace</l>
+               <l>Her <hi>Gods,</hi> and grafted <hi>Glories</hi> in their place,</l>
+               <l>
+                  <hi>Venus</hi> and <hi>Cupid</hi> which the <hi>Pagans</hi> uſe</l>
+               <l>To adore, their <hi>Temples</hi> can't a place refuſe,</l>
+               <l>Thoſe <hi>pretty Deities</hi> they muſt not looſe.</l>
+               <l>Take <hi>Mars</hi> from one, and take his <hi>Bow</hi> from 'tother,</l>
+               <l>They'll make a very <hi>decent Son and Mother.</hi>
+               </l>
+               <l>
+                  <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve</hi> needs but <hi>little mending,</hi> he that will</l>
+               <l>Find fault! the <hi>Thunderer</hi> is a <hi>Thunderer ſtill.</hi>
+               </l>
+               <l>
+                  <hi>Caſtor</hi> and <hi>Pollux</hi> have at <hi>Sea</hi> the ſame</l>
+               <l>Due <hi>Reverence</hi> paid, only they've chang'dtheir <hi>Name,</hi>
+               </l>
+               <l>With <hi>Chriſm</hi> and <hi>Holy-water</hi> exorcis'd,</l>
+               <l>Their's into <hi>Chriſtianity ſurpriz'd,</hi>
+               </l>
+               <l>As <hi>Indians</hi> by a <hi>Spaniſh Prieſt</hi> baptiz'd.</l>
+               <l>But who i'th name of <hi>Wonder</hi> did prefer</l>
+               <l>Some <hi>luſty Rebel</hi> in the <hi>Grants</hi> War,</l>
+               <l>To be that <hi>Swinger</hi> of a Chriſtian <hi>Saint,</hi>
+               </l>
+               <l>Whom thoſe at <hi>Rome</hi> like <hi>Polyphemus</hi> paint;</l>
+               <l>Who <hi>all the World</hi> on his <hi>broad Back</hi> did bear,</l>
+               <l>(His Feet the while two <hi>Angels</hi> held i'th <hi>Air,</hi>)</l>
+               <l>That huge <hi>unmerciful St. Chriſtopher:</hi>
+               </l>
+               <l>If <hi>Catholick Religion</hi> that we'll call,</l>
+               <l>Which has the <hi>largeſt Arms,</hi> and takes in <hi>all;</hi>
+               </l>
+               <l>
+                  <hi>Rome</hi> claims the <hi>Title,</hi> ſuperſtitious, lewd,</l>
+               <l>Profane, debauch'd, vain, filly, bad or good;</l>
+               <l>It welcomes all, or all except the <hi>laſt,</hi>
+               </l>
+               <l>And different <hi>Baits</hi> throws out for every <hi>Taſte.</hi>
+               </l>
+               <l>
+                  <hi>Muſick</hi> and <hi>Songs</hi> for thoſe that <hi>Muſick</hi> crave,</l>
+               <l>For <hi>Women, Children, Fools,</hi> they <hi>Babbies</hi> have;</l>
+               <l>For traytrous <hi>Fryars</hi> a <hi>Halter</hi> they provide,</l>
+               <l>That ſtill <hi>hangs</hi> gently <hi>dangling</hi> by their <hi>Side.</hi>
+               </l>
+               <l>Poor <hi>hungry Mob</hi> with heav'nly Diſhes treat,</l>
+               <l>Gape, gape, you <hi>Rogues!</hi> ſuch <hi>Food</hi> you ne're did eat,</l>
+               <l>A <hi>muſs of Gods</hi>— their <hi>taſte,</hi> no doubt, <hi>divine;</hi>
+               </l>
+               <l>Be thankful then— but not one <hi>ſoop of Wine!</hi>
+               </l>
+               <l>Not one dear drop the <hi>thirſty Prieſt</hi> will ſpare,</l>
+               <l>Poor Wretch— his <hi>Lips</hi> muſt needs be <hi>dry</hi> with <hi>Pray'r.</hi>
+               </l>
+               <pb n="12" facs="tcp:98503:9"/>
+               <l>Won't all this do? then t'other <hi>trick</hi> begin,</l>
+               <l>You've warrant for't— <hi>compell 'em to come in:</hi>
+               </l>
+               <l>
+                  <hi>Goad</hi> all the <hi>reſtive Souls,</hi> who fondly wait</l>
+               <l>Without, and will not paſs the <hi>Church's Gate;</hi>
+               </l>
+               <l>Torment and <hi>worry</hi> them into <hi>Salvation,</hi>
+               </l>
+               <l>Rack, hang, or <hi>damn</hi> to ſave 'em from <hi>Damnation.</hi>
+               </l>
+               <l>This <hi>Rome's Religion</hi> was, and is ſo ſtill,</l>
+               <l>This did of old our great <hi>Forefathers</hi> feel</l>
+               <l>Her Arguments, the <hi>Whip,</hi> the <hi>Fire,</hi> the <hi>Wheel;</hi>
+               </l>
+               <l>To all dare'd true <hi>Religion</hi> entertain,</l>
+               <l>Who fled for aid to the <hi>cold Alps</hi>
+                  <note n="*" place="margin">The Coun<g ref="char:EOLhyphen"/>try of the <hi>Piemontois,</hi> &amp;c.</note> in vain:</l>
+               <l>In vain ſhe hop'd in ſafety there to dwell</l>
+               <l>'Midſt <hi>Hills</hi> and <hi>Vallies</hi> inacceſſible;</l>
+               <l>
+                  <hi>Error</hi> purſues, now <hi>only</hi> does <hi>not ſtray,</hi>
+               </l>
+               <l>But to thoſe deep <hi>Receſſes</hi> where ſhe lay,</l>
+               <l>Like <hi>Hannibal did make, or find a way:</hi>
+               </l>
+               <l>
+                  <hi>Devotion</hi> and true <hi>Zeal</hi> her high pretence,</l>
+               <l>And often <hi>torn</hi> and <hi>wounded,</hi> forc'd her thence;</l>
+               <l>Tho in thoſe <hi>Rocks</hi> ſhe left a <hi>ſacred Race,</hi>
+               </l>
+               <l>And Monuments, which <hi>Rome</hi> ſhall ne're deface.</l>
+               <l>From place to place ſhe like her <hi>Maſter</hi> fled,</l>
+               <l>Like him ſhe knew not where <hi>to hide her head.</hi>
+               </l>
+               <l>With <hi>Wickliff</hi> here did for a while <hi>ſojourn,</hi>
+               </l>
+               <l>Or o're <hi>brave Cobham</hi>'s valiant <hi>Aſhes</hi> mourn,</l>
+               <l>Till following <hi>Error</hi> forc'd her to return:</l>
+               <l>Amongſt <hi>devoted Albigenſes</hi> ſtraid,</l>
+               <l>Or in <hi>Bohemian Villa's</hi> wept and pray'd.</l>
+               <l>With <hi>Huſs</hi> and <hi>Prague</hi> to <hi>Conſtance</hi> did repair,</l>
+               <l>The Emp'rors <hi>Royal VVord</hi> her ſafeguard there:</l>
+               <l>But <hi>Error</hi> quickly had found out 'twas ſhe,</l>
+               <l>And with her Friends <hi>Falſhood and Perjury,</hi>
+               </l>
+               <l>Voted all <hi>Faith to Hereticks null and void,</hi>
+               </l>
+               <l>
+                  <hi>Made</hi> only to be <hi>taken and deſtroy'd.</hi>
+               </l>
+               <l>Hereby ſhe <hi>ſcapes,</hi> her dear <hi>Companions</hi> loſt</l>
+               <l>In <hi>Martyrs Flames;</hi> by various <hi>Tempeſts</hi> toſs'd;</l>
+               <l>Till with brave <hi>Ziſca</hi> and his <hi>Favourites</hi>
+               </l>
+               <l>Reſiding, ſhe not only <hi>prays,</hi> but <hi>fights:</hi>
+               </l>
+               <l>Till the bold <hi>German Monk</hi>
+                  <note n="†" place="margin">Luther.</note>, who long enquir'd</l>
+               <l>For her <hi>abode,</hi> found her at laſt retir'd</l>
+               <pb n="13" facs="tcp:98503:9"/>
+               <l>From the rude <hi>World</hi> and places of <hi>Reſort,</hi>
+               </l>
+               <l>Found her, and brought her to the <hi>German Court,</hi>
+               </l>
+               <l>The <hi>Princes</hi> kiſs'd her <hi>Wounds,</hi> her <hi>wrongs</hi> deplore,</l>
+               <l>And her to <hi>Thrones</hi> and high <hi>Tribunals</hi> bore,</l>
+               <l>Scarce cou'd her <hi>firſt lov'd Conſtantine</hi> do more:</l>
+               <l>Lov'd and careſs'd by theſe <hi>illuſtrious Friends,</hi>
+               </l>
+               <l>By their kind aid new <hi>Collomes</hi> ſhe ſends</l>
+               <l>Throughout the World, the ſtubborn <hi>North</hi> obey,</l>
+               <l>Throw off <hi>Rome</hi>'s <hi>Iron Yoke</hi> for her more <hi>gentle ſway.</hi>
+               </l>
+               <l>With theſe <hi>rich Albion</hi> ſees with glad ſurprize</l>
+               <l>Her <hi>Idol-Temples</hi> fall, and <hi>Churches</hi> riſe.</l>
+               <l>The helpleſs <hi>rotten Rood</hi> a <hi>Bonfire</hi> makes,</l>
+               <l>Each cheating <hi>Fiend</hi> his <hi>Oracle</hi> forſakes,</l>
+               <l>Their <hi>Miracles</hi> are <hi>lying wonders</hi> found,</l>
+               <l>Their <hi>ſacred Ducks-blood</hi>
+                  <note n="†" place="margin">Vid. <hi>Fox</hi> of the Diſſoluti<g ref="char:EOLhyphen"/>on of Abbys.</note> ſcatter'd on the ground:</l>
+               <l>From the <hi>Familiar Samuel</hi>'s <hi>Mantle</hi> fell,</l>
+               <l>And back he fled agen to <hi>Rome</hi> and <hi>Hell.</hi>
+               </l>
+               <l>
+                  <hi>Learning</hi> and all <hi>good Arts</hi> with ſpeed revive,</l>
+               <l>And by <hi>Religions</hi> kind Protection live:</l>
+               <l>The <hi>Golden Age</hi> returns, and who'd admire</l>
+               <l>The <hi>Droſs</hi> ſhou'd be remov'd by <hi>Martyrs Fire?</hi>
+               </l>
+               <l>Nay <hi>Jove</hi> himſelf, 'tis ſaid, had Orders given</l>
+               <l>That bleſt <hi>Aſtraea</hi> ſhou'd return from <hi>Heaven:</hi>
+               </l>
+               <l>
+                  <hi>But ah, ſome Seeds of ancient Fraud remain,</hi>
+               </l>
+               <l>Which made the <hi>wondrous Change</hi> almoſt in <hi>vain;</hi>
+               </l>
+               <l>And when <hi>old Arts</hi> wou'd now no longer do,</l>
+               <l>Too — fruitful <hi>Error</hi> ſoon invented <hi>new;</hi>
+               </l>
+               <l>Demands <hi>Recruits from Hell,</hi> the <hi>Fiends</hi> obey;</l>
+               <l>Th' <hi>Enchantreſs waves her Wand,</hi> they haſt away</l>
+               <l>From baleful <hi>Caves,</hi> and <hi>intercept</hi> the <hi>Day:</hi>
+               </l>
+               <l>See in what Troops they to her <hi>aid</hi> advance,</l>
+               <l>
+                  <hi>Malice</hi> and <hi>Diſcord, Pride</hi> and <hi>Ignorance.</hi>
+               </l>
+               <l>Black, foul-mouth'd <hi>Blaſphemy,</hi> whoſe <hi>forked</hi> tongue</l>
+               <l>
+                  <hi>Hiſſes</hi> at <hi>Heav'n,</hi> and thinks its <hi>Thunder</hi> long</l>
+               <l>Before it ſtrikes, <hi>Injuſtice, Rapine, Wrong,</hi>
+               </l>
+               <l>
+                  <hi>Oppreſſion</hi> on the <hi>Hearts</hi> of <hi>Orphans</hi> fed,</l>
+               <l>
+                  <hi>Tyrannick-Rule,</hi> by <hi>Will,</hi> not <hi>Juſtice</hi> led,</l>
+               <l>And <hi>foul Rebellion</hi> with her <hi>Hydra-head:</hi>
+               </l>
+               <pb n="14" facs="tcp:98503:10"/>
+               <l>
+                  <hi>New fangled-Faith,</hi> and worſe than all the reſt</l>
+               <l>
+                  <hi>Hipocriſie,</hi> in <hi>Sheeps-fair-Cloathing</hi> dreſt</l>
+               <l>Within a <hi>Wolve</hi>'s ficrce <hi>Paws,</hi> a <hi>Tygar</hi>'s <hi>Breaſt.</hi>
+               </l>
+               <l>The <hi>helliſh Train</hi> ſhe views with <hi>barb'rous</hi> Joy,</l>
+               <l>And doubts not to <hi>diſgrace,</hi> if not <hi>deſtroy</hi>
+               </l>
+               <l>
+                  <hi>Religions Colonies,</hi> to <hi>blaſt</hi> their <hi>Fruit,</hi>
+               </l>
+               <l>If not prevail againſt the <hi>ſtubborn Root.</hi>
+               </l>
+               <l>Go then, ſhe ſaid, my lov'd <hi>Companions</hi> goe,</l>
+               <l>
+                  <hi>Act</hi> what may <hi>Envy</hi> raiſe in thoſe you leave <hi>below:</hi>
+               </l>
+               <l>
+                  <hi>Haunt</hi> all the <hi>Enemies</hi> to <hi>us</hi> and <hi>you,</hi>
+               </l>
+               <l>If they'll <hi>reform,</hi> be you <hi>Reformers</hi> too!</l>
+               <l>She ſaid — like <hi>Locuſts</hi> round the <hi>World</hi> they <hi>flew,</hi>
+               </l>
+               <l>And each fair <hi>Field</hi> thro' which their <hi>Armies</hi> paſs'd,</l>
+               <l>Not only with their <hi>odious weight</hi> lay waſte,</l>
+               <l>But ſtriving to <hi>perpetuate</hi> their <hi>kind,</hi>
+               </l>
+               <l>They leave a fruitful numerous <hi>Spawn</hi> behind;</l>
+               <l>No <hi>Place,</hi> no <hi>Age,</hi> from their Vexation free,</l>
+               <l>No <hi>Church</hi> or <hi>Sect,</hi> from ſpacious <hi>Germany,</hi>
+               </l>
+               <l>To thee, O <hi>wretched Albion!</hi> tortur'd more</l>
+               <l>With this than all thy other <hi>Plagues</hi> before.</l>
+               <l>The <hi>Bigotts</hi> firſt, who if their <hi>Cauſe</hi> is right,</l>
+               <l>No <hi>thanks to them,</hi> they only <hi>blindfold</hi> fight</l>
+               <l>The <hi>largeſt Catholick Church</hi> that e're was found,</l>
+               <l>Wide ſtretcht thro' all the <hi>univerſal Round;</hi>
+               </l>
+               <l>But none to a greater <hi>height of madneſs</hi> come</l>
+               <l>(They'd have you call it <hi>Zeal</hi>) than <hi>ours at home:</hi>
+               </l>
+               <l>A foul <hi>black humour</hi> which not all the <hi>Flood</hi>
+               </l>
+               <l>Of <hi>Thames</hi> can <hi>waſh</hi> away, ſtill <hi>ſowrs</hi> their <hi>Blood.</hi>
+               </l>
+               <l>The pois'nous <hi>Juice</hi> ſtill <hi>grumbles</hi> in their <hi>Veins,</hi>
+               </l>
+               <l>And as the <hi>Moon</hi> directs it, turns their <hi>Brains:</hi>
+               </l>
+               <l>Then like <hi>mad Indians,</hi> rambling thro' the Street</l>
+               <l>They <hi>run-a-muck,</hi> and <hi>murder</hi> all they meet.</l>
+               <l>Thus <hi>Aetna</hi>'s horrid <hi>Caverns</hi> ever <hi>glow</hi>
+               </l>
+               <l>With ſullen ſubterranean <hi>Fires</hi> below;</l>
+               <l>But when <hi>contending winds</hi> thro' ſome ſinall <hi>chink</hi>
+               </l>
+               <l>Or <hi>cranny</hi> ruſh, or its hot <hi>Intrails drink,</hi>
+               </l>
+               <l>
+                  <hi>Trinacrian Waves,</hi> it riſes to the <hi>brink,</hi>
+               </l>
+               <pb n="15" facs="tcp:98503:10"/>
+               <l>And <hi>liquid Flames</hi> in dreadful <hi>Currents</hi> fall,</l>
+               <l>Loud bellowing on <hi>Catania</hi>'s neighb'ring <hi>VVall.</hi>
+               </l>
+               <l>What <hi>Strife,</hi> what Jars, what an impetuous <hi>Flood,</hi>
+               </l>
+               <l>Wide rolling down, of <hi>Miſchief, VVars</hi> and <hi>Blood</hi>
+               </l>
+               <l>Derive their <hi>Origine</hi> and <hi>Spring</hi> from thee</l>
+               <l>
+                  <hi>Firebrand</hi> of <hi>England,</hi> hated <hi>Bigottrie?</hi>
+               </l>
+               <l>
+                  <hi>Practis'd</hi> by <hi>all,</hi> and yet by all <hi>decry'd,</hi>
+               </l>
+               <l>
+                  <hi>Hated</hi> by all — but ſtill of <hi>t'other ſide:</hi>
+               </l>
+               <l>As <hi>Tradeſmen</hi> will their <hi>cheating Neighbours</hi> blame,</l>
+               <l>Who only <hi>Occaſion</hi> want to do the <hi>ſame.</hi>
+               </l>
+               <l>Was not the laſt <hi>ſad Age</hi> thy <hi>Vengeance</hi> cloy'd,</l>
+               <l>
+                  <hi>Three flouriſhing Kingdoms</hi> more than <hi>half deſtroy'd</hi>
+               </l>
+               <l>By thy <hi>wild Fury,</hi> that the ſame <hi>diſgrace</hi>
+               </l>
+               <l>Thou ſtriv'ſt to entail on their <hi>unhappy Race?</hi>
+               </l>
+               <l>But that we know thou doſt unjuſtly bear</l>
+               <l>
+                  <hi>Religious Name,</hi> the <hi>VVorld</hi> wou'd that <hi>forſwear,</hi>
+               </l>
+               <l>And turn meer <hi>Atheiſts</hi> in deſpite of thee;</l>
+               <l>Ev'n a more <hi>ſilly Sect</hi> if that can be.</l>
+               <l>
+                  <hi>Fools</hi> leave one <hi>Vice,</hi> and chuſe its <hi>contrarie.</hi>
+               </l>
+               <l>And ſuch thy <hi>Followers</hi> are, ſtill <hi>on they run,</hi>
+               </l>
+               <l>Nor value <hi>where,</hi> ſo they each other <hi>ſhun:</hi>
+               </l>
+               <l>In <hi>tow'ring Top-knots</hi> theſe <hi>Religion</hi> dreſs,</l>
+               <l>
+                  <hi>Thoſe</hi> even her <hi>Hair</hi> pull off, and ſome confeſs</l>
+               <l>They like her <hi>beſt</hi> in <hi>Raggs</hi> or <hi>Nakedneſs.</hi>
+               </l>
+               <l>This <hi>Fate</hi> uneaſie <hi>Scotland</hi> ever mourns,</l>
+               <l>Where every <hi>Sect</hi> each other <hi>plagues</hi> by <hi>turns:</hi>
+               </l>
+               <l>
+                  <hi>Bonnet</hi> or <hi>Mitre</hi> be't that fills the <hi>Chair,</hi>
+               </l>
+               <l>
+                  <hi>Woe</hi> to the <hi>VVretch</hi> whoſe <hi>Lot</hi> it is to <hi>bear:</hi>
+               </l>
+               <l>They never knew what 'twas a <hi>Friend to ſpare;</hi>
+               </l>
+               <l>Or <hi>Church</hi> or <hi>Kirk</hi> when once they get <hi>aſtride,</hi>
+               </l>
+               <l>While <hi>Arms</hi> and <hi>VVhip,</hi> and <hi>Leather</hi> hold they <hi>ride:</hi>
+               </l>
+               <l>The <hi>Malice</hi> even of <hi>Fables</hi> they'll out-do</l>
+               <l>And for their <hi>Foes one Eye</hi> they'll forfeit <hi>two.</hi>
+               </l>
+               <l>Not that at <hi>home</hi> we much behind 'em fall,</l>
+               <l>Rather than fail, wee'll forfeit <hi>Head</hi> and all.</l>
+               <l>Each <hi>Sect</hi> pretends <hi>Infallibility,</hi>
+               </l>
+               <l>They only <hi>true,</hi> the reſt a <hi>Cheat</hi> and <hi>Lye.</hi>
+               </l>
+               <pb n="16" facs="tcp:98503:11"/>
+               <l>
+                  <hi>Maggots</hi> which in Religion's <hi>Carkaſs</hi> breed,</l>
+               <l>When in the laſt ſad Age ſhe loſt her <hi>head;</hi>
+               </l>
+               <l>Whence numerous ſwarms of various <hi>Inſects</hi> riſe,</l>
+               <l>Deafen the <hi>Air,</hi> and fill the darken'd <hi>Skyes;</hi>
+               </l>
+               <l>Of different <hi>caſts,</hi> of different <hi>ſhape</hi> and <hi>wing,</hi>
+               </l>
+               <l>A warlike Race, all arm'd with <hi>claws</hi> and <hi>ſting,</hi>
+               </l>
+               <l>Like <hi>Earth-born Brethren,</hi> meet with equal ſpite</l>
+               <l>And rage, for they no ſooner <hi>live</hi> but <hi>fight.</hi>
+               </l>
+               <l>Some came from <hi>Forreign Shores,</hi> which we'd be loth</l>
+               <l>To wrong, (but moſt of our own <hi>natural growth;</hi>)</l>
+               <l>Hungry and lean they came, tho' ſince 'tis clear</l>
+               <l>They're very much improv'd and <hi>batten'd</hi> here.</l>
+               <l>For ſuch a <hi>crop</hi> but little <hi>Labour</hi> needs,</l>
+               <l>'Tis a rank <hi>Soyl,</hi> and wondrous kind to <hi>weeds:</hi>
+               </l>
+               <l>From diſtant <hi>Poland</hi> came the fruitful <hi>Seeds</hi>
+               </l>
+               <l>Long ſince by ſly <hi>Socin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> ſcatter'd there,</l>
+               <l>Which but too ſoon a large <hi>increaſe</hi> did bear.</l>
+               <l>They roſe to Plants, which to our Fields convey'd,</l>
+               <l>And rooted here by monſtrous <hi>Biddle</hi>'s aid,</l>
+               <l>Projected far away their <hi>deadly ſhade.</hi>
+               </l>
+               <l>
+                  <hi>Socinus</hi> is <hi>believ'd</hi> inſtead of <hi>Chriſt,</hi>
+               </l>
+               <l>And <hi>Crellius</hi> makes a <hi>Fifth Evangeliſt.</hi>
+               </l>
+               <l>For <hi>true Religion</hi> they <hi>falſe Reaſon</hi> take,</l>
+               <l>Of <hi>Man</hi> a <hi>God,</hi> of <hi>God</hi> a <hi>Man</hi> they make:</l>
+               <l>
+                  <hi>Idolaters Idolatry</hi> to ſhun</l>
+               <l>
+                  <hi>Two</hi> Gods <hi>adore,</hi> while they <hi>believe</hi> but <hi>one:</hi>
+               </l>
+               <l>Forſaken by that <hi>Saviour</hi> they abuſe,</l>
+               <l>Left by that <hi>ſacred Guide</hi> they ſcorn to uſe,</l>
+               <l>Their boaſted <hi>Reaſon</hi> in wild <hi>Nonſenſe</hi> looſe;</l>
+               <l>So vain is Man, ſo groſs his <hi>Errors</hi> be,</l>
+               <l>Who more than him who gave him <hi>Eyes</hi> would <hi>ſee</hi>
+               </l>
+               <l>And boaſt to <hi>comprehend</hi> the <hi>Deitie!</hi>
+               </l>
+               <l>But thô ſo loud they <hi>Perſecution</hi> blame,</l>
+               <l>If bad their <hi>Faith,</hi> their <hi>Charity's</hi> the ſame:</l>
+               <l>Witneſs <hi>Cracovian Fields,</hi> and that wild <hi>Flood</hi>
+               </l>
+               <l>Which conquer'd all, of <hi>Error</hi> mix'd with <hi>Blood.</hi>
+               </l>
+               <l>O had the ſpreading <hi>Poyſon</hi> there remain'd,</l>
+               <l>Or in one <hi>Age,</hi> if not one <hi>Place</hi> contain'd</l>
+               <pb n="17" facs="tcp:98503:11"/>
+               <l>Its hated growth, we <hi>that</hi> had neither had</l>
+               <l>Nor <hi>Antidotes</hi> which are almoſt as bad.</l>
+               <l>Orthodox <hi>Zeal</hi> where it too warmly <hi>burns,</hi>
+               </l>
+               <l>Seizes the <hi>Brain</hi> and a <hi>Vertigo</hi> turns;</l>
+               <l>
+                  <hi>Chriſts</hi> Doctrines would like <hi>Antichriſt</hi> defend,</l>
+               <l>The Goſpel plant by <hi>Writ of Comburend':</hi>
+               </l>
+               <l>Or <hi>Books</hi> or <hi>Men</hi> the ſame; nay, more unkind,</l>
+               <l>They in <hi>Repentance</hi> ſcarce relief ſhall find,</l>
+               <l>But muſt be <hi>burnt while they 're in a good mind.</hi>
+               </l>
+               <l>'Twixt theſe <hi>Extreams</hi> Religion tortur'd ſtands,</l>
+               <l>
+                  <hi>Weeps</hi> Tears of Blood, her Side, her Feet, her Hands</l>
+               <l>Torn, wounded, pierc'd, yet pierc'd with <hi>ſhame</hi> far more,</l>
+               <l>As was her <hi>Maſter 'twixt two Thieves before.</hi>
+               </l>
+               <l>All <hi>madneſs</hi> ſome with the <hi>Socinian</hi> Race</l>
+               <l>Wou'd <hi>tolerate,</hi> all <hi>Blaſphemies</hi> embrace;</l>
+               <l>Others <hi>Infallibility</hi> defend,</l>
+               <l>Yet rail at <hi>Rome</hi>'s, and ſince too <hi>good to mend,</hi>
+               </l>
+               <l>Wou'd neither <hi>Tolerate,</hi> nor <hi>Comprehend.</hi>
+               </l>
+               <l>By each his <hi>Adverſaries Face</hi> is ſhown</l>
+               <l>So <hi>ugly</hi> that they never mind their <hi>own.</hi>
+               </l>
+               <l>Theſe <hi>Moderation</hi> hate, and theſe no leſs</l>
+               <l>
+                  <hi>Immoderately</hi> for <hi>Moderation</hi> preſs:</l>
+               <l>Some <hi>Honour</hi> at a diſtance keeps, ſome <hi>fear</hi>
+               </l>
+               <l>Their <hi>Cheats</hi> ſhou'd be deſcry'd if view'd too near;</l>
+               <l>Some think the <hi>Breach</hi> too <hi>great,</hi> and ſome too <hi>ſmall</hi>
+               </l>
+               <l>To' admit or need a Cure, ſome loudly bawl</l>
+               <l>That <hi>Int'reſt, Int'reſt</hi> is the Cauſe of all:</l>
+               <l>Whether men paſs for <hi>Moraliſts</hi> or <hi>Saints</hi>
+               </l>
+               <l>'Tis true — perhaps, too of their own <hi>Complaints.</hi>
+               </l>
+               <l>What makes two <hi>Combatants</hi> ſtand off, but Fear</l>
+               <l>Each ſhou'd the <hi>advantage</hi> get if once too near?</l>
+               <l>Yet ſure they wou'd <hi>unite,</hi> tho' ne're ſo loth</l>
+               <l>Shou'd a <hi>third man</hi> come in to <hi>kill</hi> 'em <hi>both.</hi>
+               </l>
+               <l>Even the <hi>mad Jews</hi> awhile <hi>adjourn'd</hi> their Hate</l>
+               <l>When they the <hi>Romans</hi> ſaw before the <hi>Gate;</hi>
+               </l>
+               <l>But <hi>madder we</hi> keep up our Rage and Spite,</l>
+               <l>And leave our <hi>Enemies</hi> with our <hi>Friends</hi> to fight:</l>
+               <pb n="18" facs="tcp:98503:12"/>
+               <l>Fall out upon the <hi>Breach,</hi> and to pull down</l>
+               <l>Our <hi>Neighbours</hi> Houſe will gladly <hi>fire</hi> our <hi>awn.</hi>
+               </l>
+               <l>Ah griev'd <hi>Religion</hi> whither art thou fled?</l>
+               <l>Or ſay what <hi>Deſart</hi> hides thy <hi>bluſhing</hi> Heed;</l>
+               <l>Bluſhing for thy lewd Sons, with conſcious ſhame,</l>
+               <l>That they 'll not leave their <hi>Folly</hi> or their <hi>Name?</hi>
+               </l>
+               <l>Shall we with thoſe whofe <hi>Race</hi> from <hi>Munſter</hi>
+                  <note n="*" place="margin">Anabaptiſts.</note> came</l>
+               <l>Seek in the <hi>Waves</hi> for thy ſecure <hi>abode,</hi>
+               </l>
+               <l>Where like ſome <hi>Water-Nymph</hi> or <hi>River-God</hi>
+               </l>
+               <l>They ſay thou thy Majeſtick <hi>Court</hi> doſt hold,</l>
+               <l>And for thy <hi>Treaſures dive</hi> like <hi>Shipwrack't Gold?</hi>
+               </l>
+               <l>Pretend Heav'ns <hi>Patent</hi> to engroſs the Trade,</l>
+               <l>And all beſides have <hi>Interlopers</hi> made;</l>
+               <l>Upon that <hi>Coaſt</hi> they nothing have to do,</l>
+               <l>And therefore them with <hi>Fire</hi> and <hi>Sword</hi> purſue:</l>
+               <l>To theſe let's reckon <hi>Venners</hi> hot-brain'd crew,</l>
+               <l>Who like an Amazon <hi>Religion</hi> dreſs'd</l>
+               <l>Arm'd Cap-a-pe in <hi>Helmet, Back</hi> and <hi>Breaſt:</hi>
+               </l>
+               <l>Each knotty point decide with their <hi>broad Sword,</hi>
+               </l>
+               <l>And <hi>murder all they meet 'ith' name o'th' Lord.</hi>
+               </l>
+               <l>But tho' all <hi>Sects</hi> their headlong madneſs blame,</l>
+               <l>Show me another wou'd not <hi>do the ſame,</hi>
+               </l>
+               <l>That ſafely might — not even the <hi>trembling
+<note n="†" place="margin">Quakers.</note> Race,</hi>
+               </l>
+               <l>With whom an <hi>Ague</hi> — fit's a <hi>mark of Grace;</hi>
+               </l>
+               <l>But if too heavy on their <hi>Toes</hi> you tread,</l>
+               <l>Or chance to break their <hi>Shins</hi> — will break your <hi>Head.</hi>
+               </l>
+               <l>The <hi>Fleſh is ſtrong,</hi> they Vow by Yea and Nay,</l>
+               <l>Twill ſometimes with the <hi>Spirit run away.</hi>
+               </l>
+               <l>Tho' that too has its <hi>turn;</hi> and the <hi>new Light</hi>
+               </l>
+               <l>Leaves <hi>Sence</hi> and <hi>Reaſon</hi> often out of ſight,</l>
+               <l>And mounts, like <hi>Lanthorns</hi> with a <hi>paper Kite.</hi>
+               </l>
+               <l>They've <hi>God himſelf</hi> within 'em — tell not them</l>
+               <l>Orh' Man that ſuffered at <hi>Jeruſalem!</hi>
+               </l>
+               <l>
+                  <hi>Bull and mouth Goſpels</hi> only Orthodox,</l>
+               <l>They no <hi>Apoſties</hi> own like <hi>Pen</hi> and <hi>Fox.</hi>
+               </l>
+               <l>All their <hi>Religion,</hi> (ſuch as pleaſe their <hi>Trade</hi>
+               </l>
+               <l>May call't) of meer <hi>Antipathies</hi> is made:</l>
+               <l>
+                  <hi>Timon</hi> of <hi>Athens,</hi> if alive, wou'd be</l>
+               <l>A Doctor in their <hi>ſowr Divinity:</hi>
+               </l>
+               <pb n="19" facs="tcp:98503:12"/>
+               <l>And <hi>ſnarling Aphemantus</hi> make another,</l>
+               <l>As right as their <hi>loſt Penſylvanian Brother.</hi>
+               </l>
+               <l>But moſt commend me to that <hi>jovial Crew</hi>
+               </l>
+               <l>Who think Mankind has nothing elſe to do,</l>
+               <l>Form'd for no nobler, higher Undertaking,</l>
+               <l>Than ſinging <hi>Doggrel Pſalms</hi>
+                  <note n="†" place="margin">Sweet-ſingers</note> of their own making.</l>
+               <l>With <hi>open mouth</hi> they <hi>Dame Religion</hi> paint,</l>
+               <l>And ever chuſe a <hi>Songſter</hi> for a <hi>Saint;</hi>
+               </l>
+               <l>By that their <hi>ſtrength of Judgment</hi> you may gueſs,</l>
+               <l>We know a <hi>Singing-man</hi> is ſeldom leſs:</l>
+               <l>But why themſelves <hi>ſweet Singers</hi> would they call?</l>
+               <l>
+                  <hi>Creaking of Wheels</hi> is Muſick when they bawl:</l>
+               <l>The <hi>Shrieks of Owls,</hi> the <hi>Iniſh-man's O-hone,</hi>
+               </l>
+               <l>
+                  <hi>Toads</hi> when they <hi>croak,</hi> or <hi>Quakers</hi> when they <hi>groan,</hi>
+               </l>
+               <l>If to their curſed <hi>Yells</hi> compar'd they be,</l>
+               <l>Are little leſs than <hi>heav'nly Harmonie.</hi>
+               </l>
+               <l>What ſhou'd we any further venture on,</l>
+               <l>Or loſe a Thought on <hi>doating Muggleton?</hi>
+               </l>
+               <l>Dull, ſordid <hi>Nonſenſe,</hi> ſenſeleſs Blaſphemie,</l>
+               <l>A heap of <hi>Filth</hi> the <hi>Ranters</hi> both and <hi>He.</hi>
+               </l>
+               <l>With theſe the <hi>Adamites</hi> may find a Place</l>
+               <l>Thoſe <hi>Goats erect,</hi> a barbarous brutal Race,</l>
+               <l>Their own, and all Humanity's diſgrace.</l>
+               <l>Fit Planters for the <hi>Californian</hi>
+                  <note n="*" place="margin">Cannibals.</note> States,</l>
+               <l>For <hi>Bridewell</hi> and for <hi>Bedlam Candidates.</hi>
+               </l>
+               <l>Tired with my <hi>ſearch,</hi> upon a Moſſy Bed</l>
+               <l>I threw me careleſs down, and lean'd my Head</l>
+               <l>All penſive, on a gentle riſing there</l>
+               <l>Regretting the expence of <hi>Time</hi> and <hi>Care;</hi>
+               </l>
+               <l>Sunk deep in <hi>Thought,</hi> a <hi>Spark</hi> comes by the while,</l>
+               <l>And proudly view'd me with a ſcornful <hi>ſmile:</hi>
+               </l>
+               <l>'For what, <hi>nor is,</hi> nor <hi>ever was,</hi> he cries</l>
+               <l>'Th' <hi>Enquiry,</hi> O how <hi>grave,</hi> the <hi>ſearch</hi> how <hi>wiſe?</hi>
+               </l>
+               <l>'For his vain <hi>Toil</hi> you the fond <hi>Chymiſt</hi> blame,</l>
+               <l>'Who ſcatters <hi>real Gold</hi> in <hi>Smoak</hi> and <hi>Flame</hi>
+               </l>
+               <l>'To find a <hi>fancy'd mine</hi> — yet do the ſame;</l>
+               <l>'A <hi>Shadow</hi> for a <hi>ſolid Subſtance</hi> chuſe,</l>
+               <l>'<hi>Religion</hi> Court, and <hi>Pleaſures</hi> Charms refuſe,</l>
+               <l>'For <hi>future idle Tales</hi> true <hi>preſent Joys</hi> you looſe.</l>
+               <pb n="20" facs="tcp:98503:13"/>
+               <l>'What <hi>now here</hi> is, <hi>is not,</hi> direct me right</l>
+               <l>'To find her, and you make a <hi>Proſelyte:</hi>
+               </l>
+               <l>''Tis all a <hi>Cheat</hi> — and then I think he ſwore,</l>
+               <l>'Where or what is ſhe? — I cou'd hear no more.</l>
+               <l>But riſing thus—you Sir in vain pretend</l>
+               <l>To <hi>cenſure</hi> what you cannot <hi>comprehend;</hi>
+               </l>
+               <l>
+                  <hi>Strifes</hi> for <hi>Religion</hi> rather do imply</l>
+               <l>There's ſomething in it, than the contrary.</l>
+               <l>Who wou'd contend if <hi>neither ſide</hi> were <hi>right.</hi>
+               </l>
+               <l>Or for <hi>imaginary Kingdoms</hi> fight?</l>
+               <l>Wee'l take a ſhort <hi>Review,</hi> nor need deſpair</l>
+               <l>To find ſome <hi>Footſteeps</hi> of it every where.</l>
+               <l>
+                  <hi>Natural Religion,</hi> which perhaps may do</l>
+               <l>For thoſe who <hi>never any better knew.</hi>
+               </l>
+               <l>Far off we need not ſeek, 'tis plain <hi>impreſs'd,</hi>
+               </l>
+               <l>E're blotted out by <hi>Vice</hi> on every <hi>Breaſt:</hi>
+               </l>
+               <l>By this we all that's <hi>fair</hi> and <hi>juſt</hi> approve,</l>
+               <l>Honour and Virtue, Honeſty and Love:</l>
+               <l>By this, altho' too <hi>weak,</hi> while 'tis conceal'd</l>
+               <l>To <hi>find</hi> it out, we <hi>judge</hi> of <hi>Truth reveal'd:</hi>
+               </l>
+               <l>This by it <hi>ſelf</hi> examines all the reſt,</l>
+               <l>And juſtly <hi>Votes</hi> the <hi>Chriſtian Faith</hi> the <hi>beſt.</hi>
+               </l>
+               <l>E're knotty <hi>Metaphyſicks</hi> ſpoil'd the <hi>Creed,</hi>
+               </l>
+               <l>Plain, ſimple, eaſie, thoſe that ran might read:</l>
+               <l>
+                  <hi>Believe</hi> what <hi>Truth reveals,</hi> do <hi>good</hi> to all!</l>
+               <l>With pious <hi>Prayers</hi> on the <hi>firſt Being</hi> call!</l>
+               <l>
+                  <hi>Relieve</hi> the <hi>Poor,</hi> the <hi>Innocent defend,</hi>
+               </l>
+               <l>
+                  <hi>Forgive</hi> your <hi>Enemy,</hi> and <hi>love</hi> your <hi>Friend,</hi>
+               </l>
+               <l>Your <hi>Countrey more,</hi> nor think your <hi>Life</hi> too dear,</l>
+               <l>Frankly to <hi>ſacrifice</hi> to <hi>Heav'n</hi> or <hi>Her.</hi>
+               </l>
+               <l>This is <hi>Religion,</hi> this alone can <hi>ſave,</hi>
+               </l>
+               <l>And this you'll find in the <hi>few Wiſe</hi> and <hi>Brave.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98503:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
